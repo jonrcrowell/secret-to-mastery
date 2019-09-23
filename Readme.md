@@ -2,6 +2,8 @@
 
 ## How to become an elite software developer, or elite at pretty much any skill
 
+[Become a Master => Site Preview](https://loving-wescoff-aa9632.netlify.com/)
+
 Gather and publish good advice about how to improve
 
 1. Quote from Wes Bos
