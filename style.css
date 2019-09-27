@@ -45,3 +45,7 @@ li {
   justify-content: center;
   align-items: center;
 }
+
+.brokenplates {
+  height: 12rem;
+}
